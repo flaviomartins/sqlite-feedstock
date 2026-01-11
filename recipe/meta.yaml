@@ -17,7 +17,7 @@ package:
 
 source:
   url: https://www.sqlite.org/{{ year }}/sqlite-autoconf-{{ version_coded }}.tar.gz
-  sha256: e0f7ae1c28c4fa551a2ffe8bdfafafa90613dabcef9553050892d02240b44f1d
+  sha256: fbd89f866b1403bb66a143065440089dd76100f2238314d92274a082d4f2b7bb
 
 build:
   number: {{ build_number }}
